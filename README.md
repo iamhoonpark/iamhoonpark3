@@ -1,7 +1,7 @@
 
   ### 👋  Hi there! I'm Sang-hoon Park.<br/>
 > I've been working as a Web developer since on February 2022. I feel like this job is suitable for me and that fulfills me completely.</br>
-> I truly wanna be a professional that's why I'm attempting to learn more about field of work. I hope to develop every lit things.</br>
+> I truly wanna be a professional that's why I've been attempting to learn more about field of work. I hope to develop every lit things.</br>
 > Thanks for stopping by.
 
 <div align='center'>
