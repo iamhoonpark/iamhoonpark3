@@ -28,7 +28,6 @@
 <div align='center'>
   
   ### 👨‍💻 Projects(@iamhoonpark)
-  List of projects I made with love
   | Name | Category | Description | Links |
   | --- | :---: | --- | --- |
   | <a href="https://github.com/iamhoonpark/iamhoonpark"><b>Integrated access management system</b></a> | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() | with React, Java, SpringBoot, JPA, MSA, PostgresQL | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://github.com/iamhoonpark/language-dev-logics)  </td></tr></table> |
