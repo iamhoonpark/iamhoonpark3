@@ -12,7 +12,7 @@ I'm trying to get rich with
   
   ![snake svg](https://github.com/iamhoonpark/iamhoonpark/blob/output/github-contribution-grid-snake.svg)
   
-  # **Projects**
+  # 🌐 **Projects**
     
 List of projects I made with love
   
