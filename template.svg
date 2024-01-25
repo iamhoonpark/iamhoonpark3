@@ -226,10 +226,10 @@
 
   </g>
 
-  <!-- Hi, I'm Sigrid Jin -->
+  <!-- Hi, I'm Sanghoon Park -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="159" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Sigrid Jin</text>
+    <rect width="210" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Sanghoon Park.</text>
   </g>
 
   <!-- typing 2 -->
@@ -277,9 +277,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="459" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m eager to challenge new things!</text>
-    <text x="15" y="50">Now extensively learning ZK and LLM fields.</text>
+    <rect width="470" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">A web developer currently working on an app project.</text>
+    <text x="15" y="50">However, I am currently between jobs.</text>
   </g>
 
   <!-- typing 4 -->
@@ -302,10 +302,10 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
+    <rect width="420" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      Find me on
-      <a xlink:href="https://twitter.com/sigridjin_eth">https://twitter.com/sigridjin_eth</a>
+      You can find me more on my 
+      <a xlink:href="https://iamhoonpark.github.io">personal page🌐</a>.
     </text>
   </g>
 
