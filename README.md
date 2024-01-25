@@ -1,9 +1,7 @@
 
-![chat_svg](https://github.com/iamhoonpark/iamhoonpark/blob/master/chat.svg)
+![](https://github.com/iamhoonpark/iamhoonpark/blob/master/chat.svg)
 
-
-![snake svg](https://github.com/iamhoonpark/iamhoonpark/blob/output/github-contribution-grid-snake.svg)
-
+![](https://github.com/iamhoonpark/iamhoonpark/blob/output/github-contribution-grid-snake.svg)
 
 <div align='center'>
   
