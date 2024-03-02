@@ -9,14 +9,15 @@
 
 <p>
   
-  <img src="https://img.shields.io/badge/HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/CSS-007ACC?style=flat-square&logo=css3&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Sass-CA6598?style=flat-square&logo=Sass&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>  
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS-007ACC?style=flat-square&logo=css3&logoColor=ffffff"/>
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CA6598?style=flat-square&logo=Sass&logoColor=ffffff"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img alt="SpringFramework" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>  
 </p>
 </div>
 
