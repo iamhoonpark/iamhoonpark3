@@ -18,9 +18,6 @@
     <img alt="SpringFramework" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFF"/>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFF"/>
     <img alt="Informatica" src="https://img.shields.io/badge/Informatica-FF7B03?style=flat-square&logo=Informatica&logoColor=FFF"/>
-    <img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=FFF"/>
-    <img alt="microsoftsqlserver" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=fff"/>
-    <img alt="oracle" src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=FFF"/>
     <img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=000"/>
   </div>
 
