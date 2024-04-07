@@ -17,8 +17,9 @@
     --><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFF"/><!--
     --><img alt="SpringFramework" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFF"/><!--
     --><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFF"/><!--
+    --><img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=000"/><!--
+    --><img alt="figma" src="https://img.shields.io/badge/figma-9857F2?style=flat-square&logo=Figma&logoColor=FFF"/><!--
     --><img alt="Informatica" src="https://img.shields.io/badge/Informatica-FF7B03?style=flat-square&logo=Informatica&logoColor=FFF"/><!--
-    <img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=000"/>
   </div>
 
     
