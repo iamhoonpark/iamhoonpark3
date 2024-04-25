@@ -7,7 +7,7 @@
   | <a href="https://iamhoonpark.github.io"><b>Jake</b></a> | ![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db) | My personal page | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://iamhoonpark.github.io) </td><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/iamhoonpark/iamhoonpark.github.io) </td></tr></table> |
   | <a href="https://github.com/iamhoonpark/project-team-feria"><b>Feria</b></a> | ![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db) | It's a domestic travel information service, we are trying to introduce you to beautiful domestic travel destinations in every corner of Korea | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/iamhoonpark/project-team-feria) </td></tr></table> |
 
-  <div>  
+  <!--<div>  
     <img alt="HTML5" src="https://img.shields.io/badge/HTML-F05032?style=flat-square&logo=html5&logoColor=FFF"/><!--
     --><img alt="CSS3" src="https://img.shields.io/badge/CSS-007ACC?style=flat-square&logo=css3&logoColor=FFF"/><!--
     --><img alt="Sass" src="https://img.shields.io/badge/Sass-CA6598?style=flat-square&logo=Sass&logoColor=FFF"/><!--
@@ -20,7 +20,5 @@
     --><img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=000"/><!--
     --><img alt="figma" src="https://img.shields.io/badge/figma-9857F2?style=flat-square&logo=Figma&logoColor=FFF"/><!--
     --><img alt="Informatica" src="https://img.shields.io/badge/Informatica-FF7B03?style=flat-square&logo=Informatica&logoColor=FFF"/><!--
-  </div>
-
-    
+  </div>-->    
 </div>
